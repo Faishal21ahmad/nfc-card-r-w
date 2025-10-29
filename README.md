@@ -3,7 +3,6 @@
 Aplikasi berbasis Next.js (React 19) untuk membaca dan menulis data ke tag NFC (Near Field Communication) menggunakan Web NFC API [Lanjut baca >](https://developer.mozilla.org/en-US/docs/Web/API/NDEFReader).
 
 
-
 ----
 ## Fitur Utama
 -  **Write NFC Tag**  

@@ -117,12 +117,13 @@ export default function WritePage() {
                                     name="data"
                                     value={data}
                                     onChange={(e) => setData(e.target.value)}
-                                    placeholder={`{
-                                        "title": "Kartu Nama",
-                                        "name": "ixal",
-                                        "link": "https://ixal.my.id"
-                                    }`}
-                                />
+                                    placeholder={
+                                        `{
+    342"title": "Kartu Nama",
+    "name": "ixal",
+    "link": "https://ixal.my.id"
+}`
+                                    } />
                             ) : (
                                 <Input
                                     label="Data"
